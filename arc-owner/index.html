@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow,noarchive">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; style-src 'unsafe-inline'">
+  <meta name="theme-color" content="#0b1120">
+  <title>AI Remote Commander — центр владельца</title>
+  <style>
+    :root{color-scheme:dark;--bg:#0b1120;--panel:#121d33;--border:#33425b;--text:#f0f5ff;--muted:#a3b5d4;--green:#6ee7b7}
+    *{box-sizing:border-box}body{margin:0;min-height:100vh;font:16px/1.55 system-ui,-apple-system,Segoe UI,sans-serif;color:var(--text);background:radial-gradient(ellipse 76% 45% at 70% 4%,#21416a 0,transparent 70%),var(--bg)}
+    main{max-width:900px;margin:0 auto;padding:54px 24px 65px}
+    header{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+    .brand{font-size:15px;letter-spacing:.12em;font-weight:750}.pill{border:1px solid #50705f;background:#18332c;color:#c0fadd;border-radius:999px;padding:6px 12px;font-size:12px}
+    h1{font-size:clamp(34px,6vw,62px);line-height:1.08;letter-spacing:-.04em;margin:75px 0 24px;max-width:780px}
+    .accent{color:#8fd8ff}.lead{font-size:clamp(17px,2.5vw,21px);color:var(--muted);max-width:690px}
+    .grid{margin-top:50px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+    .card{background:linear-gradient(150deg,#16243b,#10192d);padding:22px;border:1px solid var(--border);border-radius:17px;min-height:165px}
+    .card h2{font-size:17px;margin:0 0 8px}.card p{margin:0;color:var(--muted);font-size:14px}
+    .note{margin:26px 0 0;border:1px solid #56617d;border-radius:15px;padding:20px;background:#1b253a}
+    .note strong{color:#d9e9ff}.note p{color:#bcc9dc;margin:8px 0 0}
+    .guard{border:1px solid #4a5770;border-radius:10px;padding:12px 16px;color:#9bb0d0;display:inline-block;margin-top:23px;opacity:.75}
+    footer{margin-top:66px;padding-top:24px;border-top:1px solid var(--border);color:#8198b7;font-size:13px}
+    @media(max-width:660px){main{padding:34px 18px 45px}h1{margin-top:50px}.grid{grid-template-columns:1fr}.card{min-height:auto}.pill{font-size:11px}}
+  </style>
+</head>
+<body>
+<main>
+  <header><span class="brand">AI REMOTE COMMANDER</span><span class="pill">Только информационный интерфейс</span></header>
+  <h1>Центр управления<br><span class="accent">под контролем владельца</span></h1>
+  <p class="lead">Для будущих административных действий потребуется независимый вход владельца, подтверждение через Passkey и одноразовое криптографическое разрешение.</p>
+  <section class="grid" aria-label="Система безопасности">
+    <div class="card"><h2>01 · Вход владельца</h2><p>OAuth 2.0 / OIDC. Проверка личности отдельно от чата.</p></div>
+    <div class="card"><h2>02 · Passkey</h2><p>Подтверждение точного действия в браузере на устройстве владельца.</p></div>
+    <div class="card"><h2>03 · Аудит</h2><p>Одноразовое разрешение, ограниченное выполнение и журнал результата.</p></div>
+  </section>
+  <section class="note" aria-label="Статус безопасности">
+    <strong>Подключение ещё не активировано</strong>
+    <p>Эта страница опубликована через GitHub Pages как бесплатный статический прототип. Здесь <strong>нет авторизации, форм ввода, Passkey-регистрации или доступа к серверам</strong>. Для настоящей авторизации необходимо отдельно развернуть защищённый серверный брокер на выделенном HTTPS-адресе.</p>
+    <p>Не вводите здесь пароли, резервные коды или ключи.</p>
+  </section>
+  <span class="guard" aria-disabled="true">Административные действия: отключены</span>
+  <footer>AI Remote Commander · Public UI preview · No credentials stored · No backend requests</footer>
+</main>
+</body>
+</html>

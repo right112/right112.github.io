@@ -1,0 +1,264 @@
+{
+  "summary": {
+    "ten_courts_before_mae_mean": 78.25,
+    "ten_courts_after_mae_mean": 7.3,
+    "unchanged_26_face_count": 26,
+    "court_changed_count": 10,
+    "max_changed_non_court": 0.0,
+    "max_after_mae": 7.63
+  },
+  "faces": [
+    {
+      "id": "6C",
+      "before": 3.65,
+      "after": 3.65,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "6D",
+      "before": 2.78,
+      "after": 2.78,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "6H",
+      "before": 3.1,
+      "after": 3.1,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "6S",
+      "before": 3.29,
+      "after": 3.29,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "7C",
+      "before": 3.76,
+      "after": 3.76,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "7D",
+      "before": 2.82,
+      "after": 2.82,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "7H",
+      "before": 3.12,
+      "after": 3.12,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "7S",
+      "before": 3.43,
+      "after": 3.43,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "8C",
+      "before": 4.0,
+      "after": 4.0,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "8D",
+      "before": 2.97,
+      "after": 2.97,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "8H",
+      "before": 3.29,
+      "after": 3.29,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "8S",
+      "before": 3.67,
+      "after": 3.67,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "9C",
+      "before": 4.2,
+      "after": 4.2,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "9D",
+      "before": 3.04,
+      "after": 3.04,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "9H",
+      "before": 3.5,
+      "after": 3.5,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "9S",
+      "before": 3.76,
+      "after": 3.76,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "10C",
+      "before": 7.63,
+      "after": 7.63,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "10D",
+      "before": 5.37,
+      "after": 5.37,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "10H",
+      "before": 6.59,
+      "after": 6.59,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "10S",
+      "before": 6.89,
+      "after": 6.89,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "JC",
+      "before": 84.1,
+      "after": 7.5,
+      "difference": 76.6,
+      "real_changed": true
+    },
+    {
+      "id": "JD",
+      "before": 73.8,
+      "after": 7.16,
+      "difference": 66.64,
+      "real_changed": true
+    },
+    {
+      "id": "JH",
+      "before": 81.94,
+      "after": 7.17,
+      "difference": 74.77,
+      "real_changed": true
+    },
+    {
+      "id": "JS",
+      "before": 80.53,
+      "after": 7.43,
+      "difference": 73.1,
+      "real_changed": true
+    },
+    {
+      "id": "QC",
+      "before": 7.06,
+      "after": 7.06,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "QD",
+      "before": 78.29,
+      "after": 7.11,
+      "difference": 71.18,
+      "real_changed": true
+    },
+    {
+      "id": "QH",
+      "before": 78.06,
+      "after": 7.18,
+      "difference": 70.87,
+      "real_changed": true
+    },
+    {
+      "id": "QS",
+      "before": 76.49,
+      "after": 7.47,
+      "difference": 69.03,
+      "real_changed": true
+    },
+    {
+      "id": "KC",
+      "before": 78.18,
+      "after": 7.57,
+      "difference": 70.61,
+      "real_changed": true
+    },
+    {
+      "id": "KD",
+      "before": 74.64,
+      "after": 7.16,
+      "difference": 67.48,
+      "real_changed": true
+    },
+    {
+      "id": "KH",
+      "before": 76.42,
+      "after": 7.23,
+      "difference": 69.19,
+      "real_changed": true
+    },
+    {
+      "id": "KS",
+      "before": 6.17,
+      "after": 6.17,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "AC",
+      "before": 3.12,
+      "after": 3.12,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "AD",
+      "before": 2.57,
+      "after": 2.57,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "AH",
+      "before": 2.7,
+      "after": 2.7,
+      "difference": 0.0,
+      "real_changed": false
+    },
+    {
+      "id": "AS",
+      "before": 2.98,
+      "after": 2.98,
+      "difference": 0.0,
+      "real_changed": false
+    }
+  ]
+}

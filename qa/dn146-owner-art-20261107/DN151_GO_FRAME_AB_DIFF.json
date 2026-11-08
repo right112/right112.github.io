@@ -1,0 +1,125 @@
+[
+  {
+    "frame": "DN91_GO_0_AFTER.png",
+    "changed_pixel_count": 0,
+    "percent": 0.0,
+    "bounds": []
+  },
+  {
+    "frame": "DN91_GO_0_BEGIN.png",
+    "changed_pixel_count": 0,
+    "percent": 0.0,
+    "bounds": []
+  },
+  {
+    "frame": "DN91_GO_0_MID.png",
+    "changed_pixel_count": 0,
+    "percent": 0.0,
+    "bounds": []
+  },
+  {
+    "frame": "DN91_GO_1_AFTER.png",
+    "changed_pixel_count": 0,
+    "percent": 0.0,
+    "bounds": []
+  },
+  {
+    "frame": "DN91_GO_1_BEGIN.png",
+    "changed_pixel_count": 0,
+    "percent": 0.0,
+    "bounds": []
+  },
+  {
+    "frame": "DN91_GO_1_MID.png",
+    "changed_pixel_count": 0,
+    "percent": 0.0,
+    "bounds": []
+  },
+  {
+    "frame": "DN91_GO_2_AFTER.png",
+    "changed_pixel_count": 0,
+    "percent": 0.0,
+    "bounds": []
+  },
+  {
+    "frame": "DN91_GO_2_BEGIN.png",
+    "changed_pixel_count": 0,
+    "percent": 0.0,
+    "bounds": []
+  },
+  {
+    "frame": "DN91_GO_2_MID.png",
+    "changed_pixel_count": 43,
+    "percent": 0.0,
+    "bounds": [
+      413,
+      587,
+      562,
+      704
+    ]
+  },
+  {
+    "frame": "DN91_GO_3_AFTER.png",
+    "changed_pixel_count": 0,
+    "percent": 0.0,
+    "bounds": []
+  },
+  {
+    "frame": "DN91_GO_3_BEGIN.png",
+    "changed_pixel_count": 0,
+    "percent": 0.0,
+    "bounds": []
+  },
+  {
+    "frame": "DN91_GO_3_MID.png",
+    "changed_pixel_count": 0,
+    "percent": 0.0,
+    "bounds": []
+  },
+  {
+    "frame": "DN91_GO_4_AFTER.png",
+    "changed_pixel_count": 0,
+    "percent": 0.0,
+    "bounds": []
+  },
+  {
+    "frame": "DN91_GO_4_BEGIN.png",
+    "changed_pixel_count": 0,
+    "percent": 0.0,
+    "bounds": []
+  },
+  {
+    "frame": "DN91_GO_4_MID.png",
+    "changed_pixel_count": 0,
+    "percent": 0.0,
+    "bounds": []
+  },
+  {
+    "frame": "DN91_GO_5_AFTER.png",
+    "changed_pixel_count": 55389,
+    "percent": 4.17,
+    "bounds": [
+      153,
+      657,
+      835,
+      1234
+    ]
+  },
+  {
+    "frame": "DN91_GO_5_BEGIN.png",
+    "changed_pixel_count": 0,
+    "percent": 0.0,
+    "bounds": []
+  },
+  {
+    "frame": "DN91_GO_5_MID.png",
+    "changed_pixel_count": 58395,
+    "percent": 4.4,
+    "bounds": [
+      221,
+      303,
+      559,
+      1090
+    ]
+  }
+]

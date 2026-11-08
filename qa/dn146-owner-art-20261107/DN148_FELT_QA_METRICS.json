@@ -1,0 +1,9 @@
+{
+  "baseline_sha": "ae2c24fa850e74a6aa175b9d164c3f9a56c9da3c588c3796fa646cd6e82ab878",
+  "candidate_png_sha256": "9f919cfdd4b9eaf299b4ceeebca5bdaecb47630078e8e2dcd9b955b75bc04087",
+  "png_bytes": 1598003,
+  "changed_pixels": 46878,
+  "outside_roi_changed_pixels": 0,
+  "reference_felt_rgb_error_old": 6.062,
+  "reference_felt_rgb_error_new": 0.665
+}

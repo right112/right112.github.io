@@ -1,0 +1,680 @@
+{
+  "summary": {
+    "faces": 36,
+    "active_source_counts": {
+      "CardsArtMaster": 19,
+      "CardsClassic(runtime)": 10,
+      "CardsDN138": 4,
+      "CardsReference": 3
+    },
+    "missing": [],
+    "master_faces": 52,
+    "note": "Codes paths read and checked against existing Unity PremiumCardArt; runtime CardsClassic 300x420 from source, not filesystem"
+  },
+  "faces": [
+    {
+      "id": "6C",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        249.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        240.2,
+        237.8,
+        233.4
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "f10b1687e578783088f790d59e9e13cfcf8da12c34ad18c506144b65af404840"
+    },
+    {
+      "id": "6D",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        251.0,
+        249.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        248.4,
+        239.8,
+        235.2
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "9bb088292c648bad0ad07e80279f31dabbc313f4f87443c7f0db4aae667614f8"
+    },
+    {
+      "id": "6H",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        249.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        247.3,
+        232.3,
+        228.4
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "2c9fffabc49c052c66843b51ca226bed356ffbedb1baab8135ea828930bb8ac8"
+    },
+    {
+      "id": "6S",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        251.0,
+        249.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        242.1,
+        240.5,
+        235.9
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "35b71a3cc7d3679cd825be8b051d01e40f39621181e659d36f7cbbf2987a8988"
+    },
+    {
+      "id": "7C",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        249.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        242.2,
+        239.7,
+        235.2
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "2a0c98ffaf41a110e19b335247d9ba4e08e3abdae49880fa2dccc447d20c1cad"
+    },
+    {
+      "id": "7D",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        251.0,
+        249.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        249.0,
+        241.8,
+        237.2
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "846e6983281a9feea61eee9b3fdaca00d061582433e546472ef6017c26239715"
+    },
+    {
+      "id": "7H",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        250.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        247.8,
+        235.1,
+        230.3
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "8193f588ed89b32878aeaa9e35bea0d47d9c2676d147358190361d4e179d9cbf"
+    },
+    {
+      "id": "7S",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        249.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        245.0,
+        242.4,
+        237.7
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "abd73191c1b84286891722a441f19f93fb9d4e7260318e4de8490080b355c5d5"
+    },
+    {
+      "id": "8C",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        250.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        239.9,
+        238.3,
+        233.1
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "11c3f64e8752722c86207e028b962484249f2be33632c5bde638380644ad0272"
+    },
+    {
+      "id": "8D",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        251.0,
+        249.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        248.4,
+        239.4,
+        234.9
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "4d876d09f6758440389f69e99cddde542aac6f14499266ab3abea532bc5f363b"
+    },
+    {
+      "id": "8H",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        250.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        247.2,
+        232.7,
+        228.0
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "d7b59351363ac37d6bc4e6dde852e83075dcff384a076c0ded8cf12e6048c266"
+    },
+    {
+      "id": "8S",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        249.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        242.6,
+        240.1,
+        235.5
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "0a320f1d8dfcc2d9088cef06a6f19be6f706075709ae908d5d49ea3128740323"
+    },
+    {
+      "id": "9C",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        250.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        239.9,
+        238.3,
+        233.2
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "bf0506aa2d2cabd393b32bd0d8ab3a24e38d4a54743ce5520a4adc8327f774e7"
+    },
+    {
+      "id": "9D",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        251.0,
+        249.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        248.4,
+        239.5,
+        234.9
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "e870793058c9d0d7099fe934cf7b795310c2ba1be7cff0790c9762a951a0e795"
+    },
+    {
+      "id": "9H",
+      "active_source": "CardsReference",
+      "source_exists": true,
+      "active_dimensions": "512x752",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        251.0,
+        233.0,
+        213.0
+      ],
+      "master_border_mean_rgb": [
+        247.5,
+        224.8,
+        208.3
+      ],
+      "active_vs_master_mae": 2.75,
+      "source_sha256": "b2622bdae951f6bd9771088ec9b9eb7a0d31c1e11fcd0614902aaa51b499bab8"
+    },
+    {
+      "id": "9S",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        250.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        242.7,
+        241.0,
+        235.6
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "a9d414669780be1d233c46dfc528d076950574e531edd6ec8019d382128a8ea9"
+    },
+    {
+      "id": "10C",
+      "active_source": "CardsDN138",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        250.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        237.3,
+        235.9,
+        230.9
+      ],
+      "active_vs_master_mae": 3.75,
+      "source_sha256": "b7d2143c083a224f02ab11ac8a71139035adeb9d738604129ad36aea4413c176"
+    },
+    {
+      "id": "10D",
+      "active_source": "CardsDN138",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        249.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        248.5,
+        236.6,
+        232.3
+      ],
+      "active_vs_master_mae": 2.48,
+      "source_sha256": "ccfa84f925c82462ab8245168959758b3c8c500b38e20964665fd352bcf6cfeb"
+    },
+    {
+      "id": "10H",
+      "active_source": "CardsDN138",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        250.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        246.4,
+        229.8,
+        225.4
+      ],
+      "active_vs_master_mae": 3.43,
+      "source_sha256": "d3cd72a155663cfa12faea859104837c4c0a186ce940c2b2c3181eb363a4496e"
+    },
+    {
+      "id": "10S",
+      "active_source": "CardsDN138",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        250.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        239.7,
+        238.2,
+        233.1
+      ],
+      "active_vs_master_mae": 3.38,
+      "source_sha256": "d154d48ecb7fa5db22047905228ad2b5c461ce2138c926ec6f980e26bc61ff52"
+    },
+    {
+      "id": "JC",
+      "active_source": "CardsClassic(runtime)",
+      "source_exists": true,
+      "active_dimensions": "300x420",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        253.0,
+        250.0,
+        245.0
+      ],
+      "master_border_mean_rgb": [
+        248.8,
+        246.0,
+        241.2
+      ]
+    },
+    {
+      "id": "JD",
+      "active_source": "CardsClassic(runtime)",
+      "source_exists": true,
+      "active_dimensions": "300x420",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        250.0,
+        245.0
+      ],
+      "master_border_mean_rgb": [
+        250.8,
+        245.9,
+        241.0
+      ]
+    },
+    {
+      "id": "JH",
+      "active_source": "CardsClassic(runtime)",
+      "source_exists": true,
+      "active_dimensions": "300x420",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        250.0,
+        245.0
+      ],
+      "master_border_mean_rgb": [
+        250.8,
+        246.0,
+        241.1
+      ]
+    },
+    {
+      "id": "JS",
+      "active_source": "CardsClassic(runtime)",
+      "source_exists": true,
+      "active_dimensions": "300x420",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        250.0,
+        245.0
+      ],
+      "master_border_mean_rgb": [
+        248.0,
+        246.1,
+        241.2
+      ]
+    },
+    {
+      "id": "QC",
+      "active_source": "CardsReference",
+      "source_exists": true,
+      "active_dimensions": "512x752",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        253.0,
+        243.0,
+        220.0
+      ],
+      "master_border_mean_rgb": [
+        222.4,
+        213.3,
+        194.3
+      ],
+      "active_vs_master_mae": 4.6,
+      "source_sha256": "a79a2583bb7f59eb7b498674053b4bd688eccf07465989e96e70b44eeeed858d"
+    },
+    {
+      "id": "QD",
+      "active_source": "CardsClassic(runtime)",
+      "source_exists": true,
+      "active_dimensions": "300x420",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        253.0,
+        250.0,
+        245.0
+      ],
+      "master_border_mean_rgb": [
+        250.8,
+        242.4,
+        237.8
+      ]
+    },
+    {
+      "id": "QH",
+      "active_source": "CardsClassic(runtime)",
+      "source_exists": true,
+      "active_dimensions": "300x420",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        253.0,
+        250.0,
+        245.0
+      ],
+      "master_border_mean_rgb": [
+        250.7,
+        242.4,
+        237.9
+      ]
+    },
+    {
+      "id": "QS",
+      "active_source": "CardsClassic(runtime)",
+      "source_exists": true,
+      "active_dimensions": "300x420",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        253.0,
+        250.0,
+        245.0
+      ],
+      "master_border_mean_rgb": [
+        245.4,
+        242.8,
+        238.1
+      ]
+    },
+    {
+      "id": "KC",
+      "active_source": "CardsClassic(runtime)",
+      "source_exists": true,
+      "active_dimensions": "300x420",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        253.0,
+        250.0,
+        245.0
+      ],
+      "master_border_mean_rgb": [
+        245.0,
+        242.4,
+        237.8
+      ]
+    },
+    {
+      "id": "KD",
+      "active_source": "CardsClassic(runtime)",
+      "source_exists": true,
+      "active_dimensions": "300x420",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        253.0,
+        250.0,
+        245.0
+      ],
+      "master_border_mean_rgb": [
+        250.7,
+        242.1,
+        237.5
+      ]
+    },
+    {
+      "id": "KH",
+      "active_source": "CardsClassic(runtime)",
+      "source_exists": true,
+      "active_dimensions": "300x420",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        253.0,
+        250.0,
+        245.0
+      ],
+      "master_border_mean_rgb": [
+        250.6,
+        242.1,
+        237.6
+      ]
+    },
+    {
+      "id": "KS",
+      "active_source": "CardsReference",
+      "source_exists": true,
+      "active_dimensions": "512x752",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        253.0,
+        244.0,
+        228.0
+      ],
+      "master_border_mean_rgb": [
+        237.4,
+        229.4,
+        214.9
+      ],
+      "active_vs_master_mae": 4.66,
+      "source_sha256": "5adac7b5e8fa469c03efd07db30a26fe57ac6a3e90316d71ec39b13a7fadf9fd"
+    },
+    {
+      "id": "AC",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        250.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        245.6,
+        243.8,
+        238.1
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "6ad0a483c3f8353a8b34744b76bfc0b394b80712270382c36f4820ac01bbba1a"
+    },
+    {
+      "id": "AD",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        251.0,
+        249.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        249.2,
+        242.6,
+        237.9
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "c0ac29ee1cfc7e2f95f0cdd64e773318275ce70f69934c38621bfcaec41ea0a2"
+    },
+    {
+      "id": "AH",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        250.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        250.1,
+        243.5,
+        237.9
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "892dbdf40c267c9618483b4c83e70cd104e3e2050defa11c6662cd8e19fb4abe"
+    },
+    {
+      "id": "AS",
+      "active_source": "CardsArtMaster",
+      "source_exists": true,
+      "active_dimensions": "960x1344",
+      "master_dimensions": "960x1344",
+      "master_border_median_rgb": [
+        252.0,
+        249.0,
+        244.0
+      ],
+      "master_border_mean_rgb": [
+        245.5,
+        242.9,
+        238.1
+      ],
+      "active_vs_master_mae": 0.0,
+      "source_sha256": "220595edc0a58e293ff0fee0c76078cd9a9cded2982d079defae367d10c822fc"
+    }
+  ]
+}

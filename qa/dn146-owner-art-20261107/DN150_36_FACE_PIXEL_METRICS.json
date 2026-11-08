@@ -1,0 +1,184 @@
+{
+  "faces": [
+    {
+      "id": "6C",
+      "unity_vs_artmaster_mae": 3.65,
+      "unity_vs_artmaster_gt30_pct": 5.0
+    },
+    {
+      "id": "6D",
+      "unity_vs_artmaster_mae": 2.78,
+      "unity_vs_artmaster_gt30_pct": 4.5
+    },
+    {
+      "id": "6H",
+      "unity_vs_artmaster_mae": 3.1,
+      "unity_vs_artmaster_gt30_pct": 4.8
+    },
+    {
+      "id": "6S",
+      "unity_vs_artmaster_mae": 3.29,
+      "unity_vs_artmaster_gt30_pct": 4.7
+    },
+    {
+      "id": "7C",
+      "unity_vs_artmaster_mae": 3.76,
+      "unity_vs_artmaster_gt30_pct": 5.0
+    },
+    {
+      "id": "7D",
+      "unity_vs_artmaster_mae": 2.82,
+      "unity_vs_artmaster_gt30_pct": 4.5
+    },
+    {
+      "id": "7H",
+      "unity_vs_artmaster_mae": 3.12,
+      "unity_vs_artmaster_gt30_pct": 4.8
+    },
+    {
+      "id": "7S",
+      "unity_vs_artmaster_mae": 3.43,
+      "unity_vs_artmaster_gt30_pct": 4.7
+    },
+    {
+      "id": "8C",
+      "unity_vs_artmaster_mae": 4.0,
+      "unity_vs_artmaster_gt30_pct": 5.3
+    },
+    {
+      "id": "8D",
+      "unity_vs_artmaster_mae": 2.97,
+      "unity_vs_artmaster_gt30_pct": 4.8
+    },
+    {
+      "id": "8H",
+      "unity_vs_artmaster_mae": 3.29,
+      "unity_vs_artmaster_gt30_pct": 5.2
+    },
+    {
+      "id": "8S",
+      "unity_vs_artmaster_mae": 3.67,
+      "unity_vs_artmaster_gt30_pct": 5.0
+    },
+    {
+      "id": "9C",
+      "unity_vs_artmaster_mae": 4.2,
+      "unity_vs_artmaster_gt30_pct": 5.7
+    },
+    {
+      "id": "9D",
+      "unity_vs_artmaster_mae": 3.04,
+      "unity_vs_artmaster_gt30_pct": 4.9
+    },
+    {
+      "id": "9H",
+      "unity_vs_artmaster_mae": 3.5,
+      "unity_vs_artmaster_gt30_pct": 2.3
+    },
+    {
+      "id": "9S",
+      "unity_vs_artmaster_mae": 3.76,
+      "unity_vs_artmaster_gt30_pct": 5.3
+    },
+    {
+      "id": "10C",
+      "unity_vs_artmaster_mae": 7.63,
+      "unity_vs_artmaster_gt30_pct": 7.3
+    },
+    {
+      "id": "10D",
+      "unity_vs_artmaster_mae": 5.37,
+      "unity_vs_artmaster_gt30_pct": 6.4
+    },
+    {
+      "id": "10H",
+      "unity_vs_artmaster_mae": 6.59,
+      "unity_vs_artmaster_gt30_pct": 7.4
+    },
+    {
+      "id": "10S",
+      "unity_vs_artmaster_mae": 6.89,
+      "unity_vs_artmaster_gt30_pct": 6.8
+    },
+    {
+      "id": "JC",
+      "unity_vs_artmaster_mae": 84.1,
+      "unity_vs_artmaster_gt30_pct": 67.3
+    },
+    {
+      "id": "JD",
+      "unity_vs_artmaster_mae": 73.8,
+      "unity_vs_artmaster_gt30_pct": 65.7
+    },
+    {
+      "id": "JH",
+      "unity_vs_artmaster_mae": 81.94,
+      "unity_vs_artmaster_gt30_pct": 67.4
+    },
+    {
+      "id": "JS",
+      "unity_vs_artmaster_mae": 80.53,
+      "unity_vs_artmaster_gt30_pct": 66.0
+    },
+    {
+      "id": "QC",
+      "unity_vs_artmaster_mae": 7.06,
+      "unity_vs_artmaster_gt30_pct": 6.9
+    },
+    {
+      "id": "QD",
+      "unity_vs_artmaster_mae": 78.29,
+      "unity_vs_artmaster_gt30_pct": 66.0
+    },
+    {
+      "id": "QH",
+      "unity_vs_artmaster_mae": 78.06,
+      "unity_vs_artmaster_gt30_pct": 65.9
+    },
+    {
+      "id": "QS",
+      "unity_vs_artmaster_mae": 76.49,
+      "unity_vs_artmaster_gt30_pct": 65.2
+    },
+    {
+      "id": "KC",
+      "unity_vs_artmaster_mae": 78.18,
+      "unity_vs_artmaster_gt30_pct": 65.3
+    },
+    {
+      "id": "KD",
+      "unity_vs_artmaster_mae": 74.64,
+      "unity_vs_artmaster_gt30_pct": 66.5
+    },
+    {
+      "id": "KH",
+      "unity_vs_artmaster_mae": 76.42,
+      "unity_vs_artmaster_gt30_pct": 67.6
+    },
+    {
+      "id": "KS",
+      "unity_vs_artmaster_mae": 6.17,
+      "unity_vs_artmaster_gt30_pct": 4.5
+    },
+    {
+      "id": "AC",
+      "unity_vs_artmaster_mae": 3.12,
+      "unity_vs_artmaster_gt30_pct": 4.3
+    },
+    {
+      "id": "AD",
+      "unity_vs_artmaster_mae": 2.57,
+      "unity_vs_artmaster_gt30_pct": 3.9
+    },
+    {
+      "id": "AH",
+      "unity_vs_artmaster_mae": 2.7,
+      "unity_vs_artmaster_gt30_pct": 4.1
+    },
+    {
+      "id": "AS",
+      "unity_vs_artmaster_mae": 2.98,
+      "unity_vs_artmaster_gt30_pct": 4.2
+    }
+  ]
+}
